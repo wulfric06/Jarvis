@@ -14,6 +14,9 @@ Jarvis is a simple virtual assistant built using Python. It can perform basic ta
 - **Open YouTube**: Say "Open YouTube" to open YouTube in your default browser.
 - **Voice Recognition**: Listens to your voice commands and executes the corresponding actions.
 
+<!--  You can add more commands as per your desire in the main.py file
+      and also can set the link or path to your desired commands. -->
+
 ---
 
 ## Technologies Used
@@ -47,3 +50,6 @@ bash
 Copy
 pip install PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
 Replace the filename with the one matching your Python version and system architecture.
+
+<!--  IF YOU HAVE ANY ISSUE WITH ANYTHING E-MAIL ME @ KUMARSUMIT3152@GMAIL.COM -->
+                     <!-- HAPPY CODING -->
