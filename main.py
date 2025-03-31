@@ -77,6 +77,15 @@ if __name__ == "__main__":
 
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
+        
+        elif 'open linkedin' in query:
+            webbrowser.open("https://www.linkedin.com/in/wulfric06")
+
+        elif 'open github' in query:
+            webbrowser.open("https://www.github.com/wulfric06")
+
+        elif 'open profile' in query:
+            webbrowser.open("https://wulfric06.github.io/my-portfolio")
 
         elif 'open google' in query:
             webbrowser.open("google.com")
